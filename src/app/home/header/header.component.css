@@ -1,0 +1,25 @@
+.navigation{
+    position: relative;
+    top: 20px;
+    width: 1440px;
+  height: 70px;
+  background-color: #ffffff; 
+  border: none;
+  padding-bottom: 60px;
+}
+
+.up{
+    position: relative;
+    left: 60px;
+    
+}
+
+.right{
+position: absolute;
+float: right;
+
+}
+
+input{
+    float: right;
+}
